@@ -1,2 +1,2 @@
 # morseme
-A simple morse &lt;-> human-readable-text converter
+A simple morse to human-readable-text converter
