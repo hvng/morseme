@@ -9,7 +9,7 @@ setup(
     author='Hung Nguyen',
     author_email='hvngcs@gmail.com',
     url='https://github.com/hvng/morseme',
-    download_url='https://github.com/hvng/morseme/releases/download/v0.1/v_01.tar.gz',
+    download_url='https://github.com/hvng/morseme/releases/download/v0.1/morseme-0.1.tar.gz',
     keywords=['morse', 'morseme', ],
     classifiers=[
         'Development Status :: 4 - Beta',
