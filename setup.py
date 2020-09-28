@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='morseme',
-    py_modules=['morseme'],
+    packages = ['morseme'],
     version='0.1.1',
     description='A simple morse to human-readable-text converter',
     license='MIT',

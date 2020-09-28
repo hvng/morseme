@@ -1,0 +1,1 @@
+from .morseme import encrypt, decrypt
